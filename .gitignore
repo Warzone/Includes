@@ -1,0 +1,16 @@
+# macOS generated files
+.DS_Store
+._*
+
+# Windows generated files
+Thumbs.db
+[Dd]esktop.ini
+
+# VS Code and Sublime generated files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+*.sublime-workspace
